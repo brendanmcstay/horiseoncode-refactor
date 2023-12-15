@@ -10,3 +10,22 @@ This challenge is a code refactor challenge for the Horiseon website. In this ch
 - Added semantic HTML code
 - Added article to CSS code and reorganized
 - ineffective classes were removed 
+
+
+## Link to Finished Site
+
+
+
+
+
+
+## Sources Used 
+- https://www.youtube.com/watch?v=eDmY17-GuLo&ab_channel=PaulKeldsen-WebDevelopment
+- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
+- https://dev.to/bespoyasov/refactoring-tools-how-to-search-for-bad-code-4hmc
+- Class intructor
+
+
